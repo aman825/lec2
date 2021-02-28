@@ -6,6 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aman825/lec2.git"
+  },
+  "bin": {
+    "mkdir": "mkdir.js"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aman825/lec2/issues"
+  },
+  "homepage": "https://github.com/aman825/lec2#readme"
 }

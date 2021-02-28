@@ -1,5 +1,5 @@
 let fs = require("fs");
-( function() {
+(function() {
 let n = process.argv[2];
 let name = process.argv[3];
 if(!Number.isInteger(+n) ||  n<=0){
